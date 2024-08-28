@@ -1,1 +1,0 @@
-// 1 funtion co the co nhieu block code, gobal = cuc bo khai bao ben ngoai
