@@ -1,0 +1,1 @@
+// call back la ham goi lai, setimeout là set thơi gian, setinterval là set thời gian nma vô hạn
